@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/01-vault/spse/2025-26/fyz/fyz-201-molekulova-fyzika-a-termika/","created":"2025-07-08T18:13:31.931+02:00","updated":"2025-07-10T13:47:42.457+02:00"}
+{"dg-publish":true,"permalink":"/01-vault/spse/2025-26/fyz/fyz-201-molekulova-fyzika-a-termika/","created":"2025-07-08T18:13:31.931+02:00","updated":"2025-07-10T14:02:25.071+02:00"}
 ---
 
 ## FYZ2010 Přenos vnitřní energie
-### FYZ2011 základní poznatky termiky
-### FYZ2012 částicová stavba látek, vlastnosti látek z hlediska molekulové fyziky
+### [[01.VAULT/SPŠE/2025_26/FYZ/FYZ2011 základní poznatky termiky\|FYZ2011 základní poznatky termiky]]
+### [[01.VAULT/SPŠE/2025_26/FYZ/FYZ2012 částicová stavba látek, vlastnosti látek z hlediska molekulové fyziky\|FYZ2012 částicová stavba látek, vlastnosti látek z hlediska molekulové fyziky]]
 ### FYZ2013 teplota a její měření
 ### FYZ2014 teplo a práce, měření tepla
 ### FYZ2015 vnitřní energie tělesa a její přeměny, přenos vnitřní energie
