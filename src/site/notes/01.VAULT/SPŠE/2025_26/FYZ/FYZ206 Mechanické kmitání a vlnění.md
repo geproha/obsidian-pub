@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-vault/spse/2025-26/fyz/fyz-206-mechanicke-kmitani-a-vlneni/","tags":["gardenEntry"],"created":"2025-07-08T18:14:35.395+02:00","updated":"2025-07-10T13:42:15.196+02:00"}
+{"dg-publish":true,"permalink":"/01-vault/spse/2025-26/fyz/fyz-206-mechanicke-kmitani-a-vlneni/","created":"2025-07-08T18:14:35.395+02:00","updated":"2025-07-10T13:56:25.225+02:00"}
 ---
 
 ## FYZ2060 Kmitání mechanického oscilátoru
