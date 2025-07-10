@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-vault/spse/2025-26/fyz/fyz-201-molekulova-fyzika-a-termika/","tags":["gardenEntry"],"created":"2025-07-08T18:13:31.931+02:00","updated":"2025-07-10T13:42:07.851+02:00"}
+{"dg-publish":true,"permalink":"/01-vault/spse/2025-26/fyz/fyz-201-molekulova-fyzika-a-termika/","created":"2025-07-08T18:13:31.931+02:00","updated":"2025-07-10T13:47:42.457+02:00"}
 ---
 
 ## FYZ2010 Přenos vnitřní energie

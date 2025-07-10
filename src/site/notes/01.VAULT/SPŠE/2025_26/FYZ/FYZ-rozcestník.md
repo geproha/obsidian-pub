@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-vault/spse/2025-26/fyz/fyz-rozcestnik/","tags":["gardenEntry"],"created":"2025-07-10T13:24:02.565+02:00","updated":"2025-07-10T13:39:11.126+02:00"}
+{"dg-publish":true,"permalink":"/01-vault/spse/2025-26/fyz/fyz-rozcestnik/","created":"2025-07-10T13:24:02.565+02:00","updated":"2025-07-10T13:47:39.609+02:00"}
 ---
 
 # Rozcestník
